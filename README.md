@@ -80,7 +80,7 @@ Our vision is to build the **most flexible and future-proof open-source home and
 ## 📁 Project Structure (Preview)
 
 ```bash
-nexhome-iot/
+nexhome_iot/
 ├── backend/              # NestJS or FastAPI services
 │   ├── core/             # Core modules (auth, devices, rules)
 │   └── plugins/          # Device drivers / integrations
